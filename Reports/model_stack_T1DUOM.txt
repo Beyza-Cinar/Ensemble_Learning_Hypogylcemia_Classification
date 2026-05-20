@@ -1,0 +1,18 @@
+Macro F1 Measure:0.7511
+Mean Macro F1 Measure: 0.7511
+Macro Recall:0.7706
+Mean Macro Recall: 0.7706
+Macro Precision:0.7397
+Mean Macro Precision: 0.7397
+Macro PR AUC:0.7860
+Mean Macro PR AUC: 0.7860
+F1 Measure per Class:[1.         0.69881787 0.517748   0.78780824]
+
+Recall per Class:[1.         0.78736445 0.56029    0.73454815]
+
+Precision per Class:[1.         0.62817378 0.4812104  0.8493956 ]
+
+PR AUC per Class:[1.0, 0.7638822495591114, 0.492114859514274, 0.887967300330991]
+
+AVG PR per Class:[1.0, 0.7639261818497106, 0.4922149667604913, 0.8879731304916718]
+
